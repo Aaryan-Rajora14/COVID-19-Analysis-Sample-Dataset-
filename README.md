@@ -2,6 +2,8 @@
 
 An interactive and visually appealing Power BI dashboard for monitoring and analyzing COVID-19 data worldwide.
 
+![IMG 1](https://github.com/user-attachments/assets/824c6569-a22b-41e2-b740-edf7708843ee)
+
 ## 📊 Features
 
 - **Global Overview**: Total cases, deaths, recoveries, and active cases

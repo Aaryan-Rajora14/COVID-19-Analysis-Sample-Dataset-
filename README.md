@@ -47,6 +47,7 @@ COVID-19 data from reliable public sources (Kaggle).
 
 Feel free to fork this repository, suggest improvements, or reach out for collaboration!
 
+Note: - Some Images Don't Match the actual dashboard because of continuous development. 
 ---
 
 **Made with ❤️ using Power BI** 

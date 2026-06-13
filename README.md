@@ -52,3 +52,6 @@ Note: - Some Images Don't Match the actual dashboard because of continuous devel
 
 **Made with ❤️ using Power BI** 
 Happy Learning 🫂 
+
+
+Play The "The Plague Inc" Game and reaalize the lethality of this virus.

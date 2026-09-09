@@ -58,3 +58,5 @@ Play The "The Plague Inc" Game and reaalize the lethality of this virus.
 New Nvidia Dashboard has arrived!!
 
 And please guys don't be afraid the dataset was based on false facts there are no 5B confirmed cases.
+
+This is Second Dashboard.
